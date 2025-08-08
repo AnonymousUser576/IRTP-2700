@@ -18,6 +18,7 @@ If you use this dataset in your research or publications, **please cite the foll
 ## **📂 Folder Structure**
 
 IRTP-2700/
+├── .gitattributes  #LFS configuration file
 
 ├── IR_trajectory_power_data.mat  #source data
 
